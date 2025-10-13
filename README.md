@@ -5,12 +5,12 @@
 📄 Some things you might want to know about me (or not)
 <hr>
 
-I have been playing with computers since I was a kid, it sarted with video games and, because of my curious personality, evolved into a passion for tech which then lead me to discover the ✨wonderful✨ world of developpement.
+I have been playing with computers since I was a kid. It started with video games and, because of my curious personality, evolved into a passion for tech, which then led me to discover the ✨wonderful✨ world of software development.
 
-When I finished school, I participated in a programming course at Technobel that lasted 6 months where we learned, web developpement using Angular and .NET (amongst other things) and here I am, trying to make my passion into a job :)
+After finishing school, I took part in a six month programming course at Technobel where we learned, web developpement using Angular and .NET (among other things). Now, here I am, trying to make my passion into a career :)
 
-- 💬 My native language is French but I also speak English (somewhere between B2 and C1)
-- 📫 If you wish to contact me, here is my email **thomascourbet08@pm.me**
+- 💬 My native language is French, but I also speak English (somewhere between B2 and C1)
+- 📫 If you'd like to contact me, here is my email **thomascourbet08@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
